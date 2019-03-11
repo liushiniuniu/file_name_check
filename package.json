@@ -1,0 +1,14 @@
+{
+  "name": "node_name_check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "name_check.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^11.10.5"
+  }
+}
